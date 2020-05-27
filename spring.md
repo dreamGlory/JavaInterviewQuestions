@@ -4,7 +4,7 @@
     - [IOC（控制反转）](#IOC控制反转)
     - [AOP（面向切面）](#AOP面向切面) 
     - [DI（依赖注入）](#DI依赖注入)
-    - [@ComponentScan ](#@ComponentScan )
+    - [@ComponentScan ](# @ComponentScan )
     
 <!-- /TOC -->
 
