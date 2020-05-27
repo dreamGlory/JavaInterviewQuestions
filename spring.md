@@ -4,7 +4,7 @@
     - [IOC（控制反转）](#IOC控制反转)
     - [AOP（面向切面）](#AOP面向切面) 
     - [DI（依赖注入）](#DI依赖注入)
-    - [@ComponentScan ](# @ComponentScan )
+    - [@ComponentScan ](#ComponentScan )
     
 <!-- /TOC -->
 
@@ -22,7 +22,7 @@
 
 &emsp;&emsp;  
 
-## @ComponentScan  
+## ComponentScan  
 &emsp;&emsp;@ComponentScan用于批量注册bean。这个注解会让Spring去扫描某些包及其子包中所有类，然后将满足一定条件的类作为bean注册到Spring容器中。  
 &emsp;&emsp;默认情况下，任何参数都不设置，会将@ComponentScan修饰的类所在的包作为扫描包，默认情况下useDefaultFilters为true，Spring容器内部会使用默认过滤器。  
 常用参数：  
