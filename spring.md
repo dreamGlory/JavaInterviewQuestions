@@ -1,10 +1,10 @@
 <!-- TOC -->
 
 - [Spring面试常问点](#Spring面试常问点)
-    - [IOC（控制反转）](#IOC(控制反转) )
-    - [AOP（面向切面）](#AOP(面向切面) ) 
-    - [DI（依赖注入）](#DI(依赖注入) )
-    - [@ComponentScan ](#ComponentScan) )
+    - [IOC（控制反转）](#IOC(控制反转))
+    - [AOP（面向切面）](#AOP(面向切面)) 
+    - [DI（依赖注入）](#DI(依赖注入))
+    - [@ComponentScan ](#ComponentScan)
     
 <!-- /TOC -->
 
